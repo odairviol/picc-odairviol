@@ -1,4 +1,4 @@
-picc-odairviol
+Repositório android
 ==============
 
 Projetos treinamento android.
