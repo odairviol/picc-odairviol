@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Treinamento PT_BR</string>
+    <string name="hello_world">Olá mundo</string>
+    <string name="labelImagem">Urso.</string>
+
+</resources>

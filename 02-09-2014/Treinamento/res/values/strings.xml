@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Treinamento</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="labelImagem">Minha primeira imagem</string>
+    <string name="meu_botao">Meu botão</string>
+    
+    <!-- String Lista Contatos Activity -->
+    <string name="action_novo"></string>
+    <string name="novo">Novo</string>
+    <string name="voce_clicou_no_item">Você clicou no item: %s</string>
+    
+    <!-- Strings Activity Contato -->
+    <string name="title_activity_contato">Cadastrar Contato</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_seu_endereco">Digite seu endereço</string>
+    <string name="digite_seu_site">Digite seu site</string>
+    <string name="digite_seu_telefone">Digite seu telefone</string>
+    <string name="salvar">Salvar</string>
+
+</resources>
