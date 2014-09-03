@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Treinamento</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="labelImagem">Minha primeira imagem</string>
+    <string name="meu_botao">Meu botão</string>
+
+    <!-- String Lista Contatos Activity -->
+    <string name="action_novo"></string>
+    <string name="novo">Novo</string>
+    <string name="voce_clicou_no_item">Você clicou no item: %s</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+
+    <!-- Strings Activity Contato -->
+    <string name="title_activity_contato">Cadastrar Contato</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_seu_endereco">Digite seu endereço</string>
+    <string name="digite_seu_site">Digite seu site</string>
+    <string name="digite_seu_telefone">Digite seu telefone</string>
+    <string name="salvar">Salvar</string>
+    <string name="title_activity_life_cicle">LifeCicleActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="preenchimento_obrigatorio">Preenchimento obrigatório</string>
+    <string name="dilog_sim">Sim</string>
+    <string name="deseja_excluir_esse_contato">Deseja excluir esse contato %s ?</string>
+    <string name="dialog_nao">Não</string>
+    <string name="contato_excluido">Contato %s excluido com sucesso!</string>
+    <string name="dialog_confirmacao">Cofirmação</string>
+</resources>
