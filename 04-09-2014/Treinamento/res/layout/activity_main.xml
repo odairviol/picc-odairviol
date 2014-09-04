@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="@style/paddingLayout"
+    tools:context="br.com.cast.treinamento.MainActivity" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
+
+    <EditText
+        android:id="@+id/texto1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="43dp"
+        android:ems="10" 
+        android:inputType="textEmailAddress">
+
+        <requestFocus />
+    </EditText>
+    
+    <Button 
+        android:id="@+id/btnExemplo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/meu_botao"
+        android:drawableLeft="@drawable/ic_launcher"
+        />
+    
+    <!-- <ImageView 
+          android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher"
+        android:contentDescription="@string/labelImagem"	
+        /> -->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>
