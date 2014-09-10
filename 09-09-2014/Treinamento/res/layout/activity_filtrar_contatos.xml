@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/PaddingLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.com.cast.treinamento.app.FiltrarContatosActivity" >
+	
+    <EditText
+        android:id="@+id/txtNomeFiltro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_nome_filtro"
+        android:inputType="textPersonName">
+        <requestFocus />
+    </EditText> 
+    
+    <EditText
+        android:id="@+id/txtTelefoneFiltro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_telefone_filtro"
+        android:inputType="phone" />
+    
+    <Button
+        android:id="@+id/btnFiltrar"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:text="@string/text_filtrar" />
+
+</LinearLayout>
